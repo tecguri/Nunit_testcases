@@ -1,0 +1,14 @@
+C:\Users\gsmk0\Downloads\#3 Class - Software Quality\eazyCart\eazyCart\bin\Debug\net6.0\eazyCart.exe
+C:\Users\gsmk0\Downloads\#3 Class - Software Quality\eazyCart\eazyCart\bin\Debug\net6.0\eazyCart.deps.json
+C:\Users\gsmk0\Downloads\#3 Class - Software Quality\eazyCart\eazyCart\bin\Debug\net6.0\eazyCart.runtimeconfig.json
+C:\Users\gsmk0\Downloads\#3 Class - Software Quality\eazyCart\eazyCart\bin\Debug\net6.0\eazyCart.dll
+C:\Users\gsmk0\Downloads\#3 Class - Software Quality\eazyCart\eazyCart\bin\Debug\net6.0\eazyCart.pdb
+C:\Users\gsmk0\Downloads\#3 Class - Software Quality\eazyCart\eazyCart\obj\Debug\net6.0\eazyCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsmk0\Downloads\#3 Class - Software Quality\eazyCart\eazyCart\obj\Debug\net6.0\eazyCart.AssemblyInfoInputs.cache
+C:\Users\gsmk0\Downloads\#3 Class - Software Quality\eazyCart\eazyCart\obj\Debug\net6.0\eazyCart.AssemblyInfo.cs
+C:\Users\gsmk0\Downloads\#3 Class - Software Quality\eazyCart\eazyCart\obj\Debug\net6.0\eazyCart.csproj.CoreCompileInputs.cache
+C:\Users\gsmk0\Downloads\#3 Class - Software Quality\eazyCart\eazyCart\obj\Debug\net6.0\eazyCart.dll
+C:\Users\gsmk0\Downloads\#3 Class - Software Quality\eazyCart\eazyCart\obj\Debug\net6.0\refint\eazyCart.dll
+C:\Users\gsmk0\Downloads\#3 Class - Software Quality\eazyCart\eazyCart\obj\Debug\net6.0\eazyCart.pdb
+C:\Users\gsmk0\Downloads\#3 Class - Software Quality\eazyCart\eazyCart\obj\Debug\net6.0\eazyCart.genruntimeconfig.cache
+C:\Users\gsmk0\Downloads\#3 Class - Software Quality\eazyCart\eazyCart\obj\Debug\net6.0\ref\eazyCart.dll
