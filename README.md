@@ -36,14 +36,19 @@ ProductName_ShouldAllow_Null: Verifies that a null value is allowed as a Product
 Price_ShouldBeWithinValidRange_Low: Verifies that the Price is within the valid range (low value).
 Price_ShouldBeWithinValidRange_High: Verifies that the Price is within the valid range (high value).
 Price_ShouldBeWithinValidRange_Mid: Verifies that the Price is within the valid range (mid value).
+
 **Stock**
+
 Stock_ShouldBeWithinValidRange_Low: Verifies that the Stock is within the valid range (low value).
 Stock_ShouldBeWithinValidRange_High: Verifies that the Stock is within the valid range (high value).
 Stock_ShouldBeWithinValidRange_Mid: Verifies that the Stock is within the valid range (mid value).
+
 **Increase Method**
+
 IncreaseStock_ShouldIncreaseStock: Verifies that the IncreaseStock method increases the stock level correctly.
 IncreaseStock_ShouldHandleZeroIncrease: Verifies that the IncreaseStock method handles a zero increase correctly.
 IncreaseStock_ShouldThrowExceptionWhenStockOutOfRange: Verifies that the IncreaseStock method throws an exception when the stock level exceeds the valid range.
+
 **Decrease Method**
 DecreaseStock_ShouldDecreaseStock: Verifies that the DecreaseStock method decreases the stock level correctly.
 DecreaseStock_ShouldHandleZeroDecrease: Verifies that the DecreaseStock method handles a zero decrease correctly.
